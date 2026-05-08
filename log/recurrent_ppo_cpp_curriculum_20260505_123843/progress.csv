@@ -1,0 +1,2 @@
+rollout/ep_rew_mean,cbp/target_count,cbp/total_replacements,time/total_timesteps,cbp/last_replacements,time/fps,cbp/utility_mean,time/iterations,cbp/rollout_replacements,rollout/ep_len_mean,time/time_elapsed
+-7.314752101898193,6,0,5120,0,1995,0.0,1,0,173.96,2

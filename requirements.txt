@@ -1,0 +1,12 @@
+gymnasium
+numpy
+typing
+stable-baselines3
+sb3-contrib
+pygame
+tensorboard
+seaborn
+torch
+torchvision
+torchaudio
+cloudpickle

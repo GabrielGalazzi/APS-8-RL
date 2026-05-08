@@ -1,0 +1,17 @@
+{
+  "phase": "smoke",
+  "stage_idx": 0,
+  "stage_number": 1,
+  "stage_timesteps": 16,
+  "eval_completed_episodes": 0,
+  "reason": "KeyboardInterrupt",
+  "reason_message": "",
+  "saved_at": "20260430_224805",
+  "run_name": "codex_emergency_smoke",
+  "model_path": "data\\codex_emergency_smoke_interrupt_stage1_16ts_20260430_224805.zip",
+  "latest_model_path": "data\\codex_emergency_smoke_interrupt_latest.zip",
+  "vecnorm_path": "data\\codex_emergency_smoke_interrupt_stage1_16ts_20260430_224805_vecnorm.pkl",
+  "latest_vecnorm_path": "data\\codex_emergency_smoke_interrupt_latest_vecnorm.pkl",
+  "global_timesteps": 16,
+  "traceback": ""
+}
